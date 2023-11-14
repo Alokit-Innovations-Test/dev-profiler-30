@@ -1,5 +1,5 @@
 [package]
-name = "devprofiler"
+name = "devprofile"
 version = "0.2.1"
 edition = "2022"
 
