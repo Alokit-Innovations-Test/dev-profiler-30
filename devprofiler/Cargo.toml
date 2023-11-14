@@ -1,6 +1,6 @@
 [package]
 name = "devprofiler"
 version = "0.2.1"
-edition = "2021"
+edition = "2022"
 
 # todo - check all lib licences
